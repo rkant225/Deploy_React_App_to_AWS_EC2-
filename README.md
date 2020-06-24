@@ -47,6 +47,8 @@
 ## 15. Once you get the password, close the lightbox and again click on `connect` button and this time click on `Download Remote Desktop File` button and run the downloaded file.
 ![image](https://user-images.githubusercontent.com/26189907/85503629-b8392300-b607-11ea-9acf-66ff26b327f8.png)
 
+## 16. Now run the RDP file you have downloaded and provide the credentials, and finaly you will see your VM RDM.
+![image](https://user-images.githubusercontent.com/26189907/85507192-8e83fa00-b60f-11ea-8144-ad209e35b1fd.png)
 
 
 
